@@ -1,0 +1,4 @@
+/home/alpharomeo911/cse576/git/cse576_sp20_hw1/build/CMakeFiles/rebuild_cache.dir
+/home/alpharomeo911/cse576/git/cse576_sp20_hw1/build/CMakeFiles/edit_cache.dir
+/home/alpharomeo911/cse576/git/cse576_sp20_hw1/build/CMakeFiles/test0.dir
+/home/alpharomeo911/cse576/git/cse576_sp20_hw1/build/CMakeFiles/uwimg++.dir

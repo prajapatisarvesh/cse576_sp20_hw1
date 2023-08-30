@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alpharomeo911/cse576/git/cse576_sp20_hw1/src/image.h
+cassert
+-
+cstring
+-
+cmath
+-
+algorithm
+-
+string
+-
+vector
+-
+stdexcept
+-
+utils.h
+/home/alpharomeo911/cse576/git/cse576_sp20_hw1/src/utils.h
+
+/home/alpharomeo911/cse576/git/cse576_sp20_hw1/src/test/test0.cpp
+../image.h
+/home/alpharomeo911/cse576/git/cse576_sp20_hw1/src/image.h
+../utils.h
+/home/alpharomeo911/cse576/git/cse576_sp20_hw1/src/utils.h
+string
+-
+
+/home/alpharomeo911/cse576/git/cse576_sp20_hw1/src/utils.h
+vector
+-
+string
+-
+chrono
+-
+thread
+-
+mutex
+-
+
